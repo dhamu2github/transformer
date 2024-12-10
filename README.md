@@ -33,7 +33,7 @@ This application visualizes the internal workings of transformer-based models li
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/dhamu2github/generativeai.git
+    git clone https://github.com/dhamu2github/transformer.git
     cd transformer
     ```
 
